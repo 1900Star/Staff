@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/column_btn_bg_selector.xml" value="0.2785" />
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/shape_device_type_bg.xml" value="0.2755" />
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/shape_fast_group_bg.xml" value="0.2755" />
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/shape_item_decoration.xml" value="0.2755" />
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/shape_text_content_bg.xml" value="0.3045" />
+        <entry key="..\:/project/Staff/app/src/main/res/drawable/text_scanner_selector.xml" value="0.2785" />
+        <entry key="..\:/project/Staff/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/project/Staff/app/src/main/res/layout/item_staff_number.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#333333</color>
+    <color name="colorAccent">#3880FC</color>
+    <color name="colorHint">#adb2b5</color>
+    <color name="line_bg">#DEE1E4</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorLittleRed">#D83C3C</color>
+    <color name="colorBlack">#000</color>
+    <color name="mainTone">#021629</color>
+    <color name="item_group_text">#324252</color>
+    <color name="card_bg">#EFF3FB</color>
+    <color name="mainTone1">#68737D</color>
+    <color name="colorText1">#B9B8B8</color>
+    <color name="colorTabBarBg">#ededed</color>
+    <color name="colorLineBg">#E4E1E1</color>
+    <color name="editHint">#99A0A8</color>
+    <color name="tabNormal">#68737D</color>
+    <color name="decoration_bg">#CFD8E0</color>
+    <color name="colorToolbarTv">#7D7D81</color>
+    <color name="colorToolbarTv1">#2F2F30</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="green">#89CF1B</color>
+    <color name="seekBarEndColor">#E9EC05</color>
+    <color name="seekBarBg">#ffe0e8f5</color>
+    <color name="green_little">#97B862</color>
+    <color name="purple_little">#E390F6</color>
+    <color name="purples_little">#DEDEF5</color>
+    <color name="orange_little">#FFDECE</color>
+    <color name="bg_purple">#DEDEF5</color>
+    <color name="bg_orange">#F19B08</color>
+    <color name="bg_branch">#DCE9FF</color>
+    <color name="bg_orangef">#E45106</color>
+    <!--自定义的颜色部分-->
+    <color name="pageBg">#EFF3FB</color>
+    <color name="input_bg">#F5F3F3</color>
+    <!--圆环进度条颜色-->
+    <color name="percent_online">#1BD689</color>
+    <color name="percent_light">#FAC200</color>
+    <color name="percent_alarm">#F5624A</color>
+    <color name="percent_fixed">#2D8EFF</color>
+    <color name="percent_arc_bg">#D5E0ED</color>
+    <!--    坐标轴文字颜色-->
+    <color name="axis_text">#C0C5CB</color>
+    <color name="axis_line">#CCD0D5</color>
+    <color name="chart_mark_fill">#17C67E</color>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="13dp"
+    android:insetRight="13dp">
+    <shape>
+        <!--        渐变色-->
+        <gradient
+            android:centerColor="@color/decoration_bg"
+            android:endColor="@color/decoration_bg"
+
+            android:startColor="@color/decoration_bg"
+            android:type="linear" />
+
+        <!--分割线的高度，横向的RecyclerView,这里设置宽度即可-->
+        <size android:height="0.3dp" />
+        <!--分割线的颜色-->
+        <solid android:color="@color/decoration_bg" />
+    </shape>
+</inset>
