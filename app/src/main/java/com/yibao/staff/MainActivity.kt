@@ -44,9 +44,9 @@ class MainActivity : BaseBindingListActivity<ActivityMainBinding>() {
             override fun showDetailsView(bean: StaffBean, position: Int) {
                 val content = mBinding.tvContent.text
                 if (content.equals(bean.number) || content.equals(bean.name) || content.equals(bean.letter)) {
-                    Snackbar.make(mBinding.btnNext, "回答正确", 500).show()
+                    Snackbar.make(mBinding.btnNext, "回答正确", 600).show()
                 } else {
-                    Snackbar.make(mBinding.btnNext, "回答错误", 500).show()
+                    Snackbar.make(mBinding.btnNext, "回答错误", 600).show()
 
                 }
             }
